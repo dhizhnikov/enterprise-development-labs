@@ -7,6 +7,5 @@ public class ReportServiceTests
     [Fact]
     public void GetCompletedOrders_ReturnsOnlyCompletedOrders()
     {
-        // Тестовая логика...
     }
 }

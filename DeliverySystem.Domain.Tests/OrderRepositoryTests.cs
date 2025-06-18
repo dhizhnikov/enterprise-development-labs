@@ -7,6 +7,5 @@ public class OrderRepositoryTests
     [Fact]
     public void GetById_ReturnsOrder_WhenOrderExists()
     {
-        // Тестовая логика...
     }
 }
